@@ -30,7 +30,8 @@ div {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: rgb(250, 245, 225);
+    /* background-color: rgb(242, 238, 222); */
+    background-color: rgb(252, 236, 235);
 
 }
 .pro-story-h1 {
@@ -52,12 +53,13 @@ div {
     /* background-size: 100% 140%; */
     background-repeat: no-repeat;
     height: 100vh;
-    color: rgb(232, 212, 179);
+    /* color: rgb(232, 212, 179); */
+    color: rgb(252, 236, 235);
     width: 100%;
 }
 footer{
     text-align: center;
-    background-color: rgb(222,208,192);
+    background-color: rgb(247, 182, 178);
     height: 40px;
     padding-top: 5px;
 
