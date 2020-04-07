@@ -36,11 +36,14 @@ div {
 }
 .pro-story-h1 {
     padding: 140px;
+    color: gray;
     
 }
 .pro-story-p{
     padding-left: 70px;
     padding-right: 70px;
+    color: gray;
+
 }
 .pro-story {
     background-image: url('https://digitalmarketingstream.com/wp-content/uploads/2017/11/website-design-background-1.jpg');
